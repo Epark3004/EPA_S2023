@@ -1,5 +1,7 @@
 # EPA_S2023
-++Intelligibility++
+++
+
+Intelligibility  ++
 the most fundamental characteristic of successful oral communication.
 We mean that listeners can understand the speaker's intended meaning.
 When intelligibility is low, interlocutors adjust their own language to help foster communication through a process known as Foreigner Talk.
