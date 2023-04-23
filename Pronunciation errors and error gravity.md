@@ -1,3 +1,2 @@
-+ Pronunciation errors and error gravity
 **Introduction**
-+ Applied 
++ Applied linguistic
