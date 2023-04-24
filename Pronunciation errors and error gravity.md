@@ -14,10 +14,16 @@
 ## Classifying learners' errors 
 
 
-# Segmental errors 
+### Segmental errors 
 + Table 4.1. Classification of L2 segmental errors 
-1. 1.	Insertion 
-2. 2.	Deletion 
-3. 3.	Substitution 
-4. 4.	Distortion 
+ 1.	Insertion 
+ 2.	Deletion 
+ 3.	Substitution 
+ 4.	Distortion 
 
+### Prosodic errors 
+1. Stress
+2. Intonation
+3. Rhythm
+
+### Other problems
