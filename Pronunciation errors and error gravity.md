@@ -34,3 +34,15 @@
 
 
 ## Explaining why pronunciation errors occur 
+
+### Contrastive analysis 
++ CAH
++ Table 4.2. Examples of error types in contrastive analysis 
+
+### Error analysis 
+
+### Weaknesses of CAH and error analysis as theoretical accounts of L2 speech 
+
+
+
+### 
