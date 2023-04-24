@@ -7,5 +7,5 @@
 + What they tell us about the phonetic acquisition process
 
 **What counts**
-[![L2](Japanese)]((https://youtu.be/5d5VOWLcXkg)
+[![L2Pronunciation](Japanese)]((https://youtu.be/5d5VOWLcXkg)
 
