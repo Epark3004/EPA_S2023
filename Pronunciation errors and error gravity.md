@@ -27,3 +27,10 @@
 3. Rhythm
 
 ### Other problems
+1. Fluency 
+2. Speaking rate
+3. Voice quality 
+4. Other non-linguistic and paralinguistic aspects of L2 speech 
+
+
+## Explaining why pronunciation errors occur 
