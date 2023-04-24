@@ -7,4 +7,5 @@
 + What they tell us about the phonetic acquisition process
 
 **What counts**
-+ lakjdfadf
+[![L2](Japanese)]((https://youtu.be/5d5VOWLcXkg)
+
