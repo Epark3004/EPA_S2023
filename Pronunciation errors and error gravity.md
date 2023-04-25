@@ -43,8 +43,7 @@ My Husband and Osamu
 ### Error analysis 
 
 ### Weaknesses of CAH and error analysis as theoretical accounts of L2 speech 
-1
-2
-3
-4
-### 
++ 1.
++ 2.
++ 3.
++ 4.
