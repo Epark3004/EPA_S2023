@@ -1,5 +1,5 @@
 # Pronunciation errors and error gravity
-My hudsband and Osamu
+My Husband and Osamu
 
 ## Introduction
 + Why errors occur
